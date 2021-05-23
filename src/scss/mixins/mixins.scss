@@ -1,0 +1,15 @@
+@mixin fontRaleway() {
+  font-family: "Raleway", sans-serif;
+}
+
+@mixin fontHelvetica() {
+  font-family: "Helvetica", sans-serif;
+}
+
+@mixin borderRadius($number) {
+  border-radius: $number;
+  -webkit-border-radius: $number;
+  -moz-border-radius: $number;
+  -ms-border-radius: $number;
+  -o-border-radius: $number;
+}

@@ -1,0 +1,14 @@
+{
+    "extends": "airbnb-base",
+    "env":{
+        "browser": true
+    },
+    "rules":{
+        "import/no-extraneous-dependencies": ["error", {"devDependencies": ["gulpfile.babel.js", "gulp/**/*"]}],
+        "quotes": ["error", "double"],
+        "linebreak-style": ["error", "windows"],
+        "arrow-body-style": ["error", "as-needed"],
+        "implicit-arrow-linebreak": ["error", "below"],
+        "comma-dangle": ["error", "only-multiline"]
+    }
+}
