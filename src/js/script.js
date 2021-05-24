@@ -3,7 +3,7 @@ import { subscribe } from "./modules/subscribe";
 import getACall from "./modules/getACall";
 import { btnCall } from "./modules/getACall";
 import * as slider from "./modules/slider/slider";
-console.log("work js");
+console.log("main branch");
 
 // === subscribe ===
 subscribe.onclick = validateEmail;
