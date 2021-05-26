@@ -4,7 +4,7 @@ import getACall from "./modules/getACall";
 import { btnCall } from "./modules/getACall";
 import * as slider from "./modules/slider/slider";
 console.log("second developer changed js file");
-
+console.log("test extension git history diff");
 // === subscribe ===
 subscribe.onclick = validateEmail;
 // / === subscribe ===
