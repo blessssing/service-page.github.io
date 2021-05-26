@@ -15,4 +15,6 @@ btnCall.onclick = getACall;
 console.log("second developer changed js file");
 console.log("test extension git history diff");
 console.log("test graph commands in vscode");
+console.log("test aliases");
+
 // / === git test section ===
