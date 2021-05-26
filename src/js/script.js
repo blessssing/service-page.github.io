@@ -16,5 +16,5 @@ console.log("second developer changed js file");
 console.log("test extension git history diff");
 console.log("test graph commands in vscode");
 console.log("test aliases");
-console.log("test revert commit");
+
 // / === git test section ===
