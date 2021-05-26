@@ -3,8 +3,6 @@ import { subscribe } from "./modules/subscribe";
 import getACall from "./modules/getACall";
 import { btnCall } from "./modules/getACall";
 import * as slider from "./modules/slider/slider";
-console.log("second developer changed js file");
-console.log("test extension git history diff");
 // === subscribe ===
 subscribe.onclick = validateEmail;
 // / === subscribe ===
@@ -12,3 +10,9 @@ subscribe.onclick = validateEmail;
 // === get a call ===
 btnCall.onclick = getACall;
 // / === get a call ===
+
+// === git test section ===
+console.log("second developer changed js file");
+console.log("test extension git history diff");
+console.log("test graph commands in vscode");
+// / === git test section ===
