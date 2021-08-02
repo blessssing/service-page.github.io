@@ -9,8 +9,9 @@
 ### Used technologies
 
 - Javascript
-- SCSS
-- Task runner Gulp 4
+- Babel
 - Server part implemented on Express.js
+- Task runner Gulp 4
+- SCSS
 
 > Note: At the bottom there are two fully working forms. You just need to start the server on nodejs
