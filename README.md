@@ -1,4 +1,4 @@
-# service-page demo project
+View project [https://blessssing.github.io/build-service-page](https://blessssing.github.io/build-service-page)
 
 ### Demo project in which there is:
 
